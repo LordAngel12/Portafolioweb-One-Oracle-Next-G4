@@ -7,7 +7,7 @@ Este es el Segundo Challenge del programa ONE - Oracle Next Education. Es un  Po
 
 ## 🔗Links
 
-Pagina : [Github-Pages](https://lordangel12.github.io/Encriptador-de-textos-One-Oracle-Next-G4/)
+Pagina : [Github-Pages](https://lordangel12.github.io/Portafolioweb-One-Oracle-Next-G4/)
 
 <p>
       <img src=https://github.com/LordAngel12/Portafolioweb-One-Oracle-Next-G4/blob/5131fc095662b3f39800e875cbb562f97fde29f9/assets/img/Imagenfigma.png>
