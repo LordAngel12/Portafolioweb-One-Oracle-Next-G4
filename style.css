@@ -202,7 +202,6 @@ li {
   align-items: center;
   width: 100%;
   justify-content: center;
-  padding-bottom: 3rem;
 }
 
 .experiencie__box--izquierda {
@@ -211,7 +210,6 @@ li {
   align-items: center;
   width: 100%;
   justify-content: center;
-  padding-bottom: 3rem;
   flex-direction: row-reverse;
 }
 
@@ -374,6 +372,12 @@ li {
     justify-content: space-between;
     padding: 2rem;
   }
+
+  .experiencie__box ,.experiencie__box--izquierda{
+    padding-bottom: 3rem;
+  }
+
+  
 }
 
 @media screen and (min-width: 1000px) {
@@ -487,6 +491,11 @@ li {
     color: #464646;
   }
 
+  .experiencie__box ,.experiencie__box--izquierda{
+    padding-bottom: 3rem;
+  }
+
+
   /*Contacto*/
 
   .formcontato__contacto {
@@ -517,6 +526,7 @@ li {
   .menu__header {
     padding: 1rem;
   }
+
   .title {
     padding: 0;
   }
@@ -533,5 +543,11 @@ li {
 
   .hobbies__line {
     font-size: 1.2rem;
+  }
+
+  /*Sección de Experiencia Profesional/Proyectos*/
+
+  .experiencie__box ,.experiencie__box--izquierda{
+    padding-bottom: 3rem;
   }
 }
